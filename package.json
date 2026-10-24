@@ -1,0 +1,23 @@
+{
+  "name": "mapix-funcx-adapter-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/mapix-funcx-adapter: apply a supplied semantic inference to a structural profile.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/mapix-funcx-adapter": "1.0.0",
+    "@x12i/mapix-mongo-profiler": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/mapix-funcx-adapter.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/mapix-funcx-adapter"
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/mapix-funcx-adapter",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/mapix-funcx-adapter",
+  "usageRepository": "https://github.com/x12i-sdk/mapix-funcx-adapter",
+  "sourceRepository": "https://github.com/x12i/mapix",
+  "sourceCommit": "050d49774c2e81b3ec9daba4fb4cf6869179e5f1",
+  "sourcePackageDirectory": "packages/funcx-adapter",
+  "example": {
+    "title": "Apply a supplied semantic inference to a structural profile",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:43.263130+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "a2048d77050b8a01584cfaadc4df8791a85ba5cd0f2c12ae12c70a15489c5a6b",
+    "manifestSha256": "7d46853a93d24968b0bbc4a08ea2a87271aaab1ba0b874333250b9819df8bab6"
+  },
+  "validationFiles": {
+    "src/index.mjs": "a2048d77050b8a01584cfaadc4df8791a85ba5cd0f2c12ae12c70a15489c5a6b"
+  }
+}
